@@ -1,5 +1,5 @@
 # baseurl = "https://levcards.com/"
-baseurl = "https://agitated-fermi-8d62dc.netlify.com/"
+baseurl = "https://levcards.netlify.com/"
 title = "LevCards"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
