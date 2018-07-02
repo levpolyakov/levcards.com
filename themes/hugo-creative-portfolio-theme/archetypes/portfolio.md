@@ -1,6 +1,7 @@
 +++
 title = "{{ .Name | title }}"
 image = "/img/portfolio/{{ .Name }}.jpg"
+tags = [ "monsters", "cryptoart" ]
 date = "{{ .Date }}"
 +++
 

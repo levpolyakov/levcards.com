@@ -45,3 +45,6 @@ googleAnalytics = ""
   # github        = "https://github.com/levpolyakov"
   # googleplus    = "full profile url in googleplus"
   # stackoverflow = "full profile url in stackoverflow"
+
+[taxonomies]
+  tag = "tags"

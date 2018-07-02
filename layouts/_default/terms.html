@@ -5,7 +5,10 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
-         {{ .Content }}
+         {{ $data := .Data }}
+         {{ range $key,$value := .Data.Terms.ByCount }}
+         <h3><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }}</h3>
+         {{ end }}
       </div>
     </div>
   </div>
