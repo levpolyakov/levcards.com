@@ -5,8 +5,10 @@ tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:38:19-04:00"
 +++
 
-Trigalows seek the blue gel that Pigalow produces. 
+Trigalows seek the blue gel that [Pigalow][1] produces.
 
 <!--more-->
 
-They were once little bugs who were very picky eaters unlike the rest of their bretheren, and happened to develop a parasitic relationship to a young Pigalow as he started to experience Pigalow Puberty and grow his gel-hair to exceptionally high levels.
+They were once little bugs who were very picky eaters unlike the rest of their bretheren, and happened to develop a parasitic relationship to a young [Pigalow][1] as he started to experience Pigalow Puberty and grow his gel-hair to exceptionally high levels.
+
+[1]: /portfolio/pigalow
