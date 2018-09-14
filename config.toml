@@ -5,13 +5,13 @@ languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-38157931-3"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
+  description = "Levcards - Crypto-art by Lev Polyakov"
   copyright = "<a href='/copyright'>&copy; 2018 Lev Polyakov</a>. All rights reserved."
   sidebarAbout = [
     "Lev is a creative illustrator and animation director.",
