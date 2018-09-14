@@ -9,4 +9,6 @@ Hefeldunt is a cyborg constructed by the Elephentals to help with manual labor b
 
 <!--more-->
 
-Hefeldunts dream of one day becoming Elephentals themselves, and this is the lie they are told in their Hefeldunt classroom in order for them to keep serving the upper class Elephentals. 
+Hefeldunts dream of one day becoming Elephentals themselves, and this is the lie they are told in their Hefeldunt classroom in order for them to keep serving the upper class Elephentals.
+
+[Buy this card on SuperRare](https://superrare.co/artwork/hefeldunt-497).

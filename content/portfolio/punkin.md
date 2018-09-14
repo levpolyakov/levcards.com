@@ -10,3 +10,5 @@ A fractal super-entity that floats around the etheric heavens in a state of pure
 <!--more-->
 
 The inside of Punkin is filled with a hierarchy of lighter-than-air cosmic beings, with each upper level being more enjoyable than the last. As these beings multiply, Punkin starts growing larger like a balloon, and if not restrained may lead to Punkin blowing up and all the inner beings being carried of by the winds to other adventures. As for the skin of Punkin, for those lucky enough to find it wherever it happens to land, its natural, (though as we can see limited to a certain extent) elasticity can be used for all kinds of neat things.
+
+[Buy this card on KnownOrigin](https://dapp.knownorigin.io/artists-v2/0x39c040b50A13894e19DFbb0aF47ac9bade9926Da/editions/8500).
