@@ -1,6 +1,6 @@
 # levcards.com
 
-Build with Hugo.
+Built with Hugo.
 
 ## Development
 
