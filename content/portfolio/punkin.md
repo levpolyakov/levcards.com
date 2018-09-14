@@ -1,6 +1,6 @@
 +++
 title = "Punkin"
-image = "/img/portfolio/punkin.jpg"
+image = "/img/portfolio/punkin.png"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:32:19-04:00"
 +++
