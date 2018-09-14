@@ -1,0 +1,12 @@
++++
+title = "Trigalow"
+image = "/img/portfolio/trigalow.png"
+tags = [ "monsters", "cryptoart" ]
+date = "2018-07-01T18:38:19-04:00"
++++
+
+Trigalows seek the blue gel that Pigalow produces. 
+
+<!--more-->
+
+They were once little bugs who were very picky eaters unlike the rest of their bretheren, and happened to develop a parasitic relationship to a young Pigalow as he started to experience Pigalow Puberty and grow his gel-hair to exceptionally high levels.
