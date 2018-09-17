@@ -11,4 +11,4 @@ The 1st Levcard ever made. Residing in the Dandy Candy Dimension, Electric Elf i
 
 If you happen to incarnate in this dimension, you may not be ready to accept your role as lollipop underling and will attempt to hide away from the Electric Elf. The hole you'll reside in when burrowing yourself underground will eventually bore you, so you'll take small peeks at the towering being before getting hypnotized by the party atmosphere. 
 
-[Buy this card on SuperRare](https://superrare.co/artwork/electric-elf-125).
+[Buy this card on SuperRare](https://superrare.co/artwork/electric-elf-688).
