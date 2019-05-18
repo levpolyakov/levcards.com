@@ -1,4 +1,4 @@
-baseurl = "http://www.levcards.com/"
+baseurl = "https://www.levcards.com/"
 title = "LevCards"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
