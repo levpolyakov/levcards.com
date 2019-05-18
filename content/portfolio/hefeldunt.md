@@ -1,6 +1,6 @@
 +++
 title = "Hefeldunt"
-image = "/img/portfolio/hefeldunt.png"
+image = "img/portfolio/hefeldunt.jpg"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:35:19-04:00"
 +++

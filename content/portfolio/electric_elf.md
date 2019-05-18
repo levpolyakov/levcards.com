@@ -1,6 +1,6 @@
 +++
 title = "Electric Elf"
-image = "/img/portfolio/electric_elf.gif"
+image = "img/portfolio/electric_elf.gif"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:42:19-04:00"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Hornsbin"
-image = "/img/portfolio/hornsbin.png"
+image = "img/portfolio/hornsbin.jpg"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:37:19-04:00"
 +++
