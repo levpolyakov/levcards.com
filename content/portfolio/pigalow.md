@@ -1,6 +1,6 @@
 +++
 title = "Pigalow"
-image = "/img/portfolio/pigalow.png"
+image = "img/portfolio/pigalow.jpg"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:39:19-04:00"
 +++

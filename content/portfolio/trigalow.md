@@ -1,6 +1,6 @@
 +++
 title = "Trigalow"
-image = "/img/portfolio/trigalow.png"
+image = "img/portfolio/trigalow.jpg"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:38:19-04:00"
 +++

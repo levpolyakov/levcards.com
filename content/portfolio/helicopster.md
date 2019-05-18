@@ -1,6 +1,6 @@
 +++
 title = "Helicopster"
-image = "/img/portfolio/helicopster.png"
+image = "img/portfolio/helicopster.jpg"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:33:19-04:00"
 +++
