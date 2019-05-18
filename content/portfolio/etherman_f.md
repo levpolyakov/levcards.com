@@ -1,6 +1,6 @@
 +++
 title = "Etherman F"
-image = "/img/portfolio/etherman_f.gif"
+image = "img/portfolio/etherman_f.gif"
 tags = [ "monsters", "cryptoart" ]
 date = "2018-07-01T18:34:19-04:00"
 +++
